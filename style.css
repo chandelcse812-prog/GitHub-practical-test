@@ -73,3 +73,15 @@ button:hover {
         padding: 18px;
     }
 }
+footer {
+    background-color: #0f172a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 5px;
+    font-size: 14px;
+}
